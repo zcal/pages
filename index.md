@@ -7,3 +7,6 @@ This is a test.
 - List
 
 # Testing editing in the web interface.
+###### tag1, tag2, tag3
+
+Text of the item.
