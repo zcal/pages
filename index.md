@@ -6,6 +6,8 @@ This is a test.
 - Is an unordered
 - List
 
+<strong>How will this render when it's converted from markdown?</strong>
+
 # Testing editing in the web interface.
 ###### tag1, tag2, tag3
 
